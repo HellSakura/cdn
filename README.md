@@ -1,6 +1,6 @@
 # CDN
 
-> YunYouJun CDN by jsDelivr
+> HellSakura CDN by jsDelivr
 
 - GitHub: <https://github.com/HellSakura/cdn>
 - GitHub CDN: <https://github.com/HellSakura/cdn/raw/master>
